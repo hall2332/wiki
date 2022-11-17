@@ -1,9 +1,12 @@
 created: 20221113160348031
-modified: 20221116143025346
-tags: TableOfContents
+creator: hall
+modified: 20221117092011493
+modifier: hall
+tags: 
 title: 基本教程
 tmap.edges: 
 tmap.id: 1c7a8243-b6dd-4c16-b68f-8478844d130e
+type: text/vnd.tiddlywiki
 
 * tiddlywiki基本架构
 * 字段
