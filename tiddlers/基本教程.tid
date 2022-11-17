@@ -1,0 +1,33 @@
+created: 20221113160348031
+modified: 20221116143025346
+tags: TableOfContents
+title: 基本教程
+tmap.edges: 
+tmap.id: 1c7a8243-b6dd-4c16-b68f-8478844d130e
+
+* tiddlywiki基本架构
+* 字段
+* 基本概念
+* [[WikiText语法|WikiText]]
+* tiddlywiki特性及其与其它笔记软件的不同
+** [[tiddlywiki的链接]]
+** [[嵌入]]
+** [[tiddlywiki的tag系统]]
+** [[图片管理]]
+** [[tiddlywiki的filter语法]]
+* 高阶概念
+** 变量
+** [[宏|Macros]]
+** [[嵌入与替换|Transclusion and Substitution]]
+** [[微件]]
+* [[Customize Tiddlywiki]]
+** [[创建新的工具栏按钮]]
+** [[添加目录到侧边栏]]
+* 插件
+** [[tiddlymap]]：以tiddler为节点的图谱
+** [[Echarts]]
+** [[shiraz]]：提供更多的样式，标记等
+** [[tables]]：动态表格，可以模仿notion的database
+** [[merimaid]]
+** [[railroad]]
+
