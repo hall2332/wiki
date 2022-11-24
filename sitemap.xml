@@ -43,14 +43,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:基本教程</loc>
-		<lastmod>2022-11-17</lastmod>
+		<loc>https://onetwo.ren/wiki/#:别名</loc>
+		<lastmod>2022-11-23</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:测试</loc>
-		<lastmod>2022-11-22</lastmod>
+		<loc>https://onetwo.ren/wiki/#:卢曼卡片盒笔记法介绍</loc>
+		<lastmod>2022-11-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:基本教程</loc>
+		<lastmod>2022-11-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
