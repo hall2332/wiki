@@ -1,8 +1,13 @@
 created: 20221123062731133
-modified: 20221123064408530
+creator: hall
+modified: 20221127185929926
+modifier: hall
 tags: [[Feature Implemention]]
 title: 别名
 tmap.id: 055e8bef-e984-4033-9599-43ed701756ed
 type: text/vnd.tiddlywiki
+wysiwyg: yes
 
-* Uni-link: https://wikilabs.github.io/editions/uni-link/
+* Uni-link: [ext[https://wikilabs.github.io/editions/uni-link/]]
+* [[免疫原性细胞应激和死亡]]
+
