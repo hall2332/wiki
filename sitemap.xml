@@ -7,6 +7,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:test.js</loc>
+		<lastmod>2022-11-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:TheBrain</loc>
 		<lastmod>2022-04-16</lastmod>
 		<changefreq>monthly</changefreq>
@@ -44,7 +50,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:别名</loc>
-		<lastmod>2022-11-27</lastmod>
+		<lastmod>2022-11-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
