@@ -1,0 +1,10 @@
+created: 20221130154212667
+creator: hall
+modified: 20221130154306196
+modifier: hall
+tags: 
+title: test.js
+type: text/vnd.tiddlywiki
+wysiwyg: yes
+
+console.log(`## Hi!`);
